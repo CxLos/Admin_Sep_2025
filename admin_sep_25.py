@@ -317,7 +317,7 @@ group_bar=px.bar(
             color='black',
             )
     ),
-    margin=dict(t=80, r=60, b=60, l=60),
+    margin=dict(t=80, r=60, b=80, l=60),
     font=dict(
         family='Calibri',
         size=18,
